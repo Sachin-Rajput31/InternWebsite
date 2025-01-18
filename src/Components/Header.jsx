@@ -6,7 +6,7 @@ import Rooms from "./Rooms";
 import Services from "./Services";
 import Gallery from "./Gallery";
 import ContactUs from "./ContactUs";
-import MyMap from "./MyMap";
+import MyMap from "./MyMap.jsx";
 import ErrorBoundary from "./ErrorBoundary";
 import Footer from "./Footer";
 
